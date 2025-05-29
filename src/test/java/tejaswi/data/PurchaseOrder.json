@@ -1,0 +1,13 @@
+[
+  {
+    "email" : "saitejaswiselenium@gmail.com",
+    "password" : "Selenium@24",
+    "product" : "ZARA COAT 3"
+  },
+  {
+    "email" : "testAuto@gmail.com",
+    "password": "Test@auto1",
+    "product" : "ADIDAS ORIGINAL"
+  }
+
+]
