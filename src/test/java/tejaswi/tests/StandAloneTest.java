@@ -18,6 +18,8 @@ public class StandAloneTest {
 
     public static void main(String[] args) throws InterruptedException {
 
+        //new commits are added
+
         String productName= "ZARA COAT 3";
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
